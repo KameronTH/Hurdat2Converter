@@ -12,8 +12,8 @@ further analyzed.
 The HURDAT2 datasets used was last updated April 26th, 2024, and includes hurricane data up to 2023.
 # Requirements
 ## Third Party Packages
-Packages installed through Conda
-geopandas Version 0.14.2
+Packages installed through Conda\
+geopandas Version 0.14.2\
 pandas 2.2.2
 
 ## Example Usage
